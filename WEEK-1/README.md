@@ -1,2 +1,2 @@
-# Forensics
-writeup for the challenges of forensics will be available here.
+# Forensics and Osint
+writeup for the challenges of forensics and Osint will be available here.
