@@ -110,4 +110,12 @@ The resulted email was
 ```
 SakuraSnowAngel83@protonmail.com
 ```
+For the next part I googled the username SakuraSnowAngleAiko and it gave the following result
+
+![Screenshot from 2024-06-07 01-59-25](https://github.com/Wizzy2323/CSOC-2024/assets/159465554/249101ae-62df-4357-9d1e-2acca41c21b9)
+
+The full name was 
+```
+Aiko Abe
+```
 
